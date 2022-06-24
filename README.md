@@ -1,4 +1,4 @@
-### EX NO: 02
+### EX NO: 08
 ### DATE:
 # <p align="center">EDGE LINKING USING HOUGH TRANSFORM</p>
 
